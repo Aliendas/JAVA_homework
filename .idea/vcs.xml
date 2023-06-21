@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_task1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_task2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_task2.2." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_task3.1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java_task3.2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven/Array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven/Constructor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven/Inherit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven/JaCoCo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven/Manager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven/Manen_task4.1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven/Maven_task5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven/OOP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Maven/OOP2" vcs="Git" />
+  </component>
+</project>
